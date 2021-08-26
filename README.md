@@ -1,4 +1,4 @@
-### Hello there! 👋
+# Hello there! 👋 I am Dr Isaac Brito-Morales
 
 <p align="center"><b>I am Dr Isaac Brito-Morales, a climate change and conservation ecologist, with an interest in how climate change influences species’ distribution shifts at different ocean depths and how this phenomenon can inform conservation.
 
@@ -8,6 +8,8 @@
 <img width="55%" src="https://user-images.githubusercontent.com/25609047/130961992-1326b806-da37-4e18-a16c-a8e2408eb3b7.gif" alt="Climate velocity showing magnitude and vectors across different depths" />
 </p>
 
+## Connect with Me 🤝🏻
+ 
 ---
 <!--
 **IsaakBM/IsaakBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
