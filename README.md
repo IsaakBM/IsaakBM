@@ -1,8 +1,6 @@
 # Hello there! 👋 I am Dr Isaac Brito-Morales
 
-<p align="center"><b>I am Dr Isaac Brito-Morales, a climate change and conservation ecologist, with an interest in how climate change influences species’ distribution shifts at different ocean depths and how this phenomenon can inform conservation.
-
-<p align="center"><b>My research has focused on how best to include climate change in protected areas design. Designing protected areas in the ocean might be even more challenging than on land. Not only are species moving faster in response to climate change in the ocean, but its 3-D structure adds complexity. A new paradigm for the design of MPAs in the open ocean is needed – one that considers its 3-D nature, climate change, and different ocean bioregions.
+<p align="center"><b>I am Dr Isaac Brito-Morales, a marine ecologist specializing in conservation planning and climate change. My research focuses on understanding the global and regional-scale impact of climate change on species’ distribution shifts in the ocean. I have utilised this information to inform conservation efforts and promote sustainable practices. 
 
 <p align="center">
 <img width="55%" src="https://user-images.githubusercontent.com/25609047/130961992-1326b806-da37-4e18-a16c-a8e2408eb3b7.gif" alt="Climate velocity showing magnitude and vectors across different depths" />
