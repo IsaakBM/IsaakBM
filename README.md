@@ -1,6 +1,6 @@
 # Hello there! 👋 I am Dr Isaac Brito-Morales
 
-<p align="center"><b>Marine ecologist specializing in conservation planning and climate change. My research focuses on understanding the global and regional-scale impact of climate change on species’ distribution shifts in the ocean. I have utilised this information to inform conservation efforts and promote sustainable practices. 
+<p align="center"><b>Marine ecologist specializing in conservation planning and climate change. My research focuses on understanding the global and regional-scale impact of climate change on species’ distribution shifts in the ocean. I have used this information to inform conservation efforts and promote sustainable practices. 
 
 <p align="center">
 <img width="55%" src="https://user-images.githubusercontent.com/25609047/130961992-1326b806-da37-4e18-a16c-a8e2408eb3b7.gif" alt="Climate velocity showing magnitude and vectors across different depths" />
