@@ -9,15 +9,17 @@ I work on understanding how climate change reshapes marine biodiversity across s
 ## Research Interests 🌊
 
 - Climate-smart conservation planning
+- Dynamic area-based marine conservation (more recently! 😲)
 - Three-dimensional ocean conservation
-- Marine protected areas and high seas biodiversity
-- Spatial prioritization, reproducible workflows, and environmental data science
+- Marine protected areas and high seas conservation (High Seas Treay 😀)
+- Reproducible workflows and environmental data science
 
-## What I Use GitHub For 💻
+## Current Technical Work 💻
 
-- Reproducible research workflows
+- Climate data downscaling and processing workflows
+- Reproducible environmental data science
 - Spatial analysis and conservation planning tools
-- Climate and biodiversity data processing
+- Climate and biodiversity data integration
 - Teaching materials, workshop resources, and collaborative science
 
 ## Connect with Me 🤝🏻
