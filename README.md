@@ -1,16 +1,30 @@
 # Hello there! 👋 I am Dr Isaac Brito-Morales
 
-<p align="center"><b>Marine ecologist specializing in conservation planning and climate change. My research focuses on understanding the global and regional-scale impact of climate change on species’ distribution shifts in the ocean. I have used this information to inform conservation efforts and promote sustainable practices. 
-
 <p align="center">
-<img width="55%" src="https://user-images.githubusercontent.com/25609047/130961992-1326b806-da37-4e18-a16c-a8e2408eb3b7.gif" alt="Climate velocity showing magnitude and vectors across different depths" />
+  <b>Marine ecologist working at the intersection of climate change, biodiversity, conservation planning, and spatial prioritization.</b>
 </p>
+
+I study how climate change reshapes marine biodiversity across space and depth, and how that knowledge can support climate-smart conservation. My work focuses on species distribution shifts, deep-ocean exposure to warming, and three-dimensional marine protected area planning.
+
+## Research Interests 🌊
+
+- Climate-smart conservation planning
+- Three-dimensional ocean conservation
+- Marine protected areas and high seas biodiversity
+- Spatial prioritization, reproducible workflows, and environmental data science
+
+## What I Use GitHub For 💻
+
+- Reproducible research workflows
+- Spatial analysis and conservation planning tools
+- Climate and biodiversity data processing
+- Teaching materials, workshop resources, and collaborative science
 
 ## Connect with Me 🤝🏻
 
 <p align="center">
   <a href="https://twitter.com/isaaksonbm">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/X / Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/isaakbm/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -18,23 +32,10 @@
   <a href="https://github.com/IsaakBM">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-   <a href="ibritomorales@gmail.com">
+  <a href="https://scholar.google.com.au/citations?hl=en&view_op=list_works&user=o0-V01oAAAAJ">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  </a>
+  <a href="mailto:ibritomorales@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p> 
- 
----
-<!--
-**IsaakBM/IsaakBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
