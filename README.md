@@ -4,7 +4,7 @@
   <b>Marine ecologist working at the intersection of climate change, biodiversity, conservation planning, and spatial prioritization.</b>
 </p>
 
-I study how climate change reshapes marine biodiversity across space and depth, and how that knowledge can support climate-smart conservation. My work focuses on species distribution shifts, deep-ocean exposure to warming, and three-dimensional marine protected area planning.
+I work on understanding how climate change reshapes marine biodiversity across space and depth, and how this knowledge can support climate-smart conservation, spatial planning, and decision-making.
 
 ## Research Interests 🌊
 
