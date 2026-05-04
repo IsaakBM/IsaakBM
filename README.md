@@ -4,23 +4,31 @@
   <b>Marine ecologist working at the intersection of climate change, biodiversity, conservation planning, and spatial prioritization.</b>
 </p>
 
-I work on understanding how climate change reshapes marine biodiversity across space and depth, and how this knowledge can support climate-smart conservation, spatial planning, and decision-making.
+I work on climate-smart conservation, that is, integrating climate change into the design and management of area-based tools, linking climate ecology with conservation planning.
 
-## Research Interests 🌊
+🚧 Right now, this includes:
+
+- Building SDMs and downscaling workflows for the [Save the Blue Five](https://savethebluefive.net/) project in the Eastern Pacific
+- Exploring how ocean fronts shape biodiversity and interact with fishing pressure
+- Exploring how static area-based conservation needs to evolve in a dynamic ocean
+
+More broadly, I study how climate change reshapes marine biodiversity across space and depth, and how this can inform real-world conservation, spatial planning, and decision-making.
+
+## Research Focus 🌊
 
 - Climate-smart conservation planning
-- Dynamic area-based marine conservation (more recently! 😲)
+- Dynamic ocean management and area-based conservation
 - Three-dimensional ocean conservation
-- Marine protected areas and high seas conservation (High Seas Treay 😀)
-- Reproducible workflows and environmental data science
+- Marine protected areas and high seas conservation
+- Linking science to policy and decision-making
 
-## Current Technical Work 💻
+## What I Actually Build 💻
 
-- Climate data downscaling and processing workflows
-- Reproducible environmental data science
-- Spatial analysis and conservation planning tools
-- Climate and biodiversity data integration
-- Teaching materials, workshop resources, and collaborative science
+- Climate data downscaling workflows from global to regional scales
+- Species distribution models under climate change
+- Spatial analyses linking biodiversity, fronts, and climate dynamics
+- Reproducible pipelines for environmental data science
+- Tools and materials for workshops and collaborative science
 
 ## Connect with Me 🤝🏻
 
