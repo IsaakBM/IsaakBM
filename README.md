@@ -4,7 +4,7 @@
   <b>Marine ecologist working at the intersection of climate change, biodiversity, conservation planning, and spatial prioritization.</b>
 </p>
 
-I work on climate-smart conservation, that is, integrating climate change into the design and management of area-based tools, linking climate ecology with conservation planning.
+I work on climate-smart conservation: integrating climate change into the design and management of area-based tools such as marine protected areas, and linking climate ecology with conservation planning.
 
 🚧 Right now, this includes:
 
