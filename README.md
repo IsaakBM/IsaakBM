@@ -12,7 +12,7 @@ I work on climate-smart conservation: integrating climate change into the design
 - Exploring how ocean fronts shape biodiversity and interact with fishing pressure
 - Exploring how static area-based conservation needs to evolve in a dynamic ocean
 
-More broadly, I study how climate change reshapes marine biodiversity across space and depth, and how this can inform real-world conservation, spatial planning, and decision-making.
+More broadly, my research focuses on how climate change reshapes marine biodiversity across space and depth, and how this can inform real-world conservation, spatial planning, and decision-making.
 
 ## Research Focus 🌊
 
